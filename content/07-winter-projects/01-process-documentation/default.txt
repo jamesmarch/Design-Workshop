@@ -1,0 +1,8 @@
+﻿Title: Process Documentation
+
+----
+
+Text: Students are expected to maintain a record of information, experimentation and other valuable documentation for their entire Fall and Winter term. This will be monitored regularly by the Course Director and by classmates. Special focus for the Winter term is on documentation of the final design deliverables.
+
+— 50% Documentation of explorations and testing in the Winter term posted in a timely fashion 
+— 50% Quality of final project documentation (e.g. quality of photos of package design, video of mobile app, etc.)

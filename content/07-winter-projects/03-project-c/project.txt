@@ -1,0 +1,9 @@
+﻿Title: Design Deliverables
+
+----
+
+Text: The Final Project (and its various parts) will be evaluated using the following criteria:
+— 30% Effectiveness to target audience
+— 50% Visual Quality
+— 10% Quality of technical refinements
+— 10% In Class Presentation, visual and verbal quality

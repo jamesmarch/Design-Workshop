@@ -1,0 +1,9 @@
+Title: Design Workshop 
+----
+Author: James March
+----
+Description: Kirby with the free Pathum theme
+----
+Keywords: kirby, kirbycms, php, filesystem, cms, theme, free
+----
+Copyright: CC 2014 — by (link: http://www.jamesmarch.co text: James March) for the York/Sheridan Joint Program in Design

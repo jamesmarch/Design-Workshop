@@ -1,0 +1,40 @@
+﻿Title: Readings
+
+----
+
+Text: *General Literature*
+(link: craftofresearch.pdf text: The Craft of Research {Booth, Colomb & Williams})
+(link: bell-chapter4.pdf text: Doing Your Research Project, Chapter 4 {Bell})
+(link: bell-chapter5-6.pdf text: Doing Your Research Project, Chapter 5 & 6 {Bell})
+(link: jmarch_mdesthesis.pdf text: My Thesis)
+(link: thedesignerasauthor.pdf text: The Designer As Author {Rock})
+(link: typographyasdiscourse.pdf text: Typography As Discourse {McCoy})
+(link: waysofthinking.pdf text: Ways Of Thinking {Noble})
+(link: http://www.presentandcorrect.com/blog/unscannable-books text: Unscannable Books)
+(link: https://www.youtube.com/watch?v=MOF3qhM6vIA text: I Am Making Art)
+(link: http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/ text: A Cyborg Manifesto)
+
+*Design Studies: Theory and Research in Graphic Design*
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-2.pdf text: Better Skills Through Research)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-3.pdf text: The Rise of Research in Graphic Design)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-4.pdf text: Graphic Design: Fine Art or Social Science?)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-5.pdf text: Shaping Belief: The Role of Audience in Visual Communication)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-6.pdf text: From Formalism to Social Significance in Design)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-7.pdf text: Being Serious, Being Popular: Positioning Design Research)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-8.pdf text: Directed Storytelling: Interpreting Experience for Design)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-9.pdf text: Audience as Co-designer: Participatory Design of HIV/AIDS Awareness and Prevention Posters in Kenya)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-10.pdf text: Communication Research: Theory, Empirical Studies and Results)
+(link: Design_Studies_Theory_and_Research_in_Graphic_Design-11.pdf text: Design Methodologies: Toward a Systematic Approach to Design)
+
+*Forms & Handouts*
+(link: research_methods.pdf text: A Guide to Ethnographic Research Methods)
+(link: hypothesis-worksheet.pdf text: Hypothesis Worksheet)
+(link: researchreportguide.pdf text: Research Report Guide)
+(link: literature-review-worksheet.pdf text: Literature Review Worksheet)
+(link: ethics-form.pdf text: Ethics Form)
+(link: open-closed-questions.pdf text: Open Vs. Closed Questions)
+(link: questionnaires.pdf text: On Questionnaires)
+(link: questionnaire-example.pdf text: Questionnaire Example)
+(link: barbecue-user-questions.pdf text: Barbecue User Questions)
+(link: sample-consent-form.pdf text: Sample Consent Form)
+(link: sample-questionnaire.pdf text: Sample Questionnaire)

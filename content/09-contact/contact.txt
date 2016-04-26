@@ -1,0 +1,18 @@
+﻿Title: Colophon
+
+----
+
+Text: ####EMAIL
+james.march@sheridancollege.ca
+
+####TELEPHONE
+647.406.8085
+
+####SKYPE
+jamesdavidmarch
+
+####CMS
+Site built using (link:http://foundation.zurb.com text: Foundation 5) and (link: http://getkirby.com text: Kirby 2).
+
+####TYPOGRAPHY
+Set in Circular by (link: http://lineto.com text: Lineto) and Alegreya by (link: http://www.huertatipografica.com text: Heurta Tipográfica).

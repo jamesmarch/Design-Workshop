@@ -1,0 +1,14 @@
+﻿Title: Class Sites
+
+----
+
+Text: This page will serve to gather links to student process sites in the Winter term.
+
+(link:http://annacampbell.ca/thesis/ text: Anna)
+(link:http://www.michfok.com/objects-at-play-process text: Michelle Fok)
+(link: http://milee.co/workshop/ text: Michelle Lee)
+(link: https://www.ryanklafuric.com/thesis-in-progress/ text: Ryan)
+(link: https://melanieawong.com/workshop.html text: Melanie)
+(link: http://www.meganpotts.com/workshop.html text: Megan)
+(link: http://sakshiworkshop.tumblr.com/ text: Sakshi)
+(link: http://umaymahm.wordpress.com/ text: Umaymah)
